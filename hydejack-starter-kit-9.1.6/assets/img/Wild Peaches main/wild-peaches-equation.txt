@@ -1,0 +1,5 @@
+\frac{\partial}{\partial t} \left( \begin{array}{c} \rho \\ \rho v \\ \rho E \end{array} \right)
++ \frac{\partial}{\partial x} &\left( \begin{array}{c} \rho v \\ \rho v^2 + p \\ (\rho E + p) v \end{array} \right)
+= \left( \begin{array}{c} 0\\ 0 \\ 0 \end{array} \right) \\
+p = (\gamma - 1) &\left( \rho E - \frac{1}{2} \rho v^2 \right) \\
+\int_0^\infty \int_{-\infty}^\infty [u_t &+ uu_x] \phi(x,t) \; dx \; dt = 0
