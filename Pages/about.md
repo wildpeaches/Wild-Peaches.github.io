@@ -3,11 +3,11 @@ layout: page
 title: About Us
 ---
 
-I am an applied mathematician who held a research position at MIT Lincoln Laboratory until retirement in 2020. As lead investigator of a team of physicists and mathematicians at MIT, I spearheaded development of an atmospheric lidar propagation model accounting for scattering, refraction, and object response. This technology enabled 3D mapping of Puerto Rico after Hurricane Maria to locate and assess damage, expediting recovery efforts. As part of the disaster relief program, I made three trips to assist FEMA on-site with model implementation, and co-authored the paper ["To Expedite Roadway Identification and Damage Assessment in LiDAR 3D Imagery for Disaster Relief Public Assistance."](https://www.mdpi.com/2412-3811/7/3/39) 
+John Peach is an applied mathematician who held a research position at MIT Lincoln Laboratory until retirement in 2020. As lead investigator of a team of physicists and mathematicians at MIT, he spearheaded development of an atmospheric lidar propagation model accounting for scattering, refraction, and object response. This technology enabled 3D mapping of Puerto Rico after Hurricane Maria to locate and assess damage, expediting recovery efforts. As part of the disaster relief program, he made three trips to assist FEMA on-site with model implementation, and co-authored the paper ["To Expedite Roadway Identification and Damage Assessment in LiDAR 3D Imagery for Disaster Relief Public Assistance."](https://www.mdpi.com/2412-3811/7/3/39) 
 
 [Jan De Wilde](https://jandewil.de/) is an artist and an interaction designer and web developer experienced in product design for large-scale web applications, creating design systems, and leading UX/UI teams. He wrote the code for the [puzzle of fifteen](https://jandw.github.io/slide-number-puzzle/) and explained how to play in [The PS4 of the 1880s](https://jandewil.de/works/puzzle-of-fifteen/). Some of his art can be found in Wild Peaches.
 
-Jan and I started the [Wild Peaches](https://wildpeaches.xyz/) blog in 2020 to promote interest in STEM (science, technology, engineering and mathematics) activities. Wild Peaches posts are an eclectic mix of "Mind-sized STEM ideas and experiments, beyond the textbook", allowing anyone to reproduce, collaborate and extend the concepts. Some examples of projects are:
+Jan and John started the [Wild Peaches](https://wildpeaches.xyz/) blog in 2020 to promote interest in STEM (science, technology, engineering and mathematics) activities. Wild Peaches posts are an eclectic mix of "Mind-sized STEM ideas and experiments, beyond the textbook", allowing anyone to reproduce, collaborate and extend the concepts. Some examples of projects are:
 
 - [How Deep Is That Pool?](https://wildpeaches.xyz/blog/how-deep-is-that-pool/) - The Mathematics of COVID-19 Testing
 - [Yacht Design with Mathematics](https://wildpeaches.xyz/blog/yacht-design-with-mathematics/) - A Letcher in Homotopies
@@ -18,7 +18,7 @@ Jan and I started the [Wild Peaches](https://wildpeaches.xyz/) blog in 2020 to p
 
 Wild Peaches intends to be a home for amateur or citizen scientists to meet, discuss and publish STEM ideas.
 
-John Peach
+John Peach, Jan De Wilde
 
 June 2024.
 
