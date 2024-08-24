@@ -15,6 +15,7 @@ socialImg: /assets/img/0001-wild-peaches/mohammad-naderi-zveMakq36UM-unsplash.jp
 
 ### 2024
 
+- [Extending Time](https://wildpeaches.xyz/blog/extending-time/) - Cesàro Sums, String Theory, and Vantablack in 3D!
 - [The Case of the Prime Suspect](https://wildpeaches.xyz/blog/the-case-of-the-prime-suspect/) - Your PI license to snoop
 - [The Big Squish Theory - Part II](https://wildpeaches.xyz/blog/the-big-squish-theory-part-ii/) - Models, Mangles and Meshes
 - [The Goldfish Conjecture](https://wildpeaches.xyz/blog/the-goldfish-conjecture/) - Some fishy statistics
