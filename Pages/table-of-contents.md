@@ -13,8 +13,15 @@ socialImg: /assets/img/0001-wild-peaches/mohammad-naderi-zveMakq36UM-unsplash.jp
 
 [**Wild Peaches**](https://wildpeaches.xyz/)
 
+[**Now on SciPress!**](https://www.scipress.io/post/a2EPpqGZeAdxaWXvXsdP/Wild-Peaches)
+
+### 2025
+
+- [Hubbert Linearization](https://wildpeaches.xyz/blog/hubbert-linearization/) - An Esoteric Concept with Extraordinary Consequences
+
 ### 2024
 
+- [Burning Man](https://wildpeaches.xyz/blog/burning-man/) - The Failure of the Green New Deal 
 - [Red-Flag Day Geometry](https://wildpeaches.xyz/blog/red-flag-day-geometry/) - Linear Algebra and Heron's Formula
 - [Extending Time](https://wildpeaches.xyz/blog/extending-time/) - Cesàro Sums, String Theory, and Vantablack in 3D!
 - [The Case of the Prime Suspect](https://wildpeaches.xyz/blog/the-case-of-the-prime-suspect/) - Your PI license to snoop
